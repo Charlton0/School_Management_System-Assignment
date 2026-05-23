@@ -60,3 +60,7 @@ Initializes admin and token address.
 
 ```rust
 __constructor(env, admin, token)
+
+
+## Deployed smart contract address
+CCPB5POOJKUEELLR26FWP6MCDXCFACG2EF7MI76KFGHAQ2V4YZIVI2ER
